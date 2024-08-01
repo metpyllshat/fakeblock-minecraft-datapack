@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fakeblock:netherrack"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fakeblock:netherrack"
+    }
+}

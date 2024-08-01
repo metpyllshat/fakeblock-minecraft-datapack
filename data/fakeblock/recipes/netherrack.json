@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherrack"
+        }
+    },
+    "result": {
+        "item": "minecraft:bat_spawn_egg",
+        "count": 9
+    }
+}
